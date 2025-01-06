@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-groq
+faiss-cpu==1.8.0
+Flask==2.0.1
+gunicorn==20.1.0
